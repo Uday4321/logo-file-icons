@@ -1,6 +1,7 @@
 # Logo File Icons
 
 Add some nice logo icons to your files in Atom. Logos were taken from [SVGPORN](http://svgporn.com)
+
 Everything is same as the one from Manuel Bieh, I just added icons for C and C++.
 
 All logos are the property of their respective owners.
