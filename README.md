@@ -16,5 +16,5 @@ All logos are the property of their respective owners.
 
 
 ## License
-MIT License. See [LICENSE](https://github.com/manuelbieh/logo-file-icons/blob/master/LICENSE.md) for details.
-Copyright &copy; 2016 [Uday321](https://github.com/Uday4321).
+MIT License. See [LICENSE](https://github.com/Uday4321/logo-file-icons/blob/master/LICENSE.md) for details.
+Copyright &copy; 2019 [Uday321](https://github.com/Uday4321).
